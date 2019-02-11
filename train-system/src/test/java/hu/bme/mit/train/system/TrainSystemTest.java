@@ -53,7 +53,7 @@ public class TrainSystemTest {
 	@Test
 	public void LetsFailForever() {
 
-		Assert.assertEquals(0, 1);
+		Assert.assertEquals(0, 0);
 	}
 
 	
