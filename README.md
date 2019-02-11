@@ -1,6 +1,6 @@
 # Focim
-** Dia es Dori repoja **
-~~ LAdiesofRete ~~
+**Dia es Dori repoja**
+~~LadiesofRete~~
 # Train Speed Controller
 
 This is a sample application for the verification laboratory.
