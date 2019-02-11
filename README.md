@@ -1,7 +1,7 @@
 # Focim
 **Dia es Dori repoja**
 ~~LadiesofRete~~
-Dori ismet
+Dori merge conflict
 # Train Speed Controller
 
 This is a sample application for the verification laboratory.
