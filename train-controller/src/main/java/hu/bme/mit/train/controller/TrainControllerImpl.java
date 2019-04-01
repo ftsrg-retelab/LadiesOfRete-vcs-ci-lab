@@ -10,7 +10,7 @@ public class TrainControllerImpl implements TrainController {
 
 	public void trainControll() {
 		Timer t = new Timer(true);
-		t.scheduleAtFixedRate(followSpeed(), 0, 2*1000);
+		t.scheduleAtFixedRate(followSpeed(), 0, 3*1000);
 
 	}
 
