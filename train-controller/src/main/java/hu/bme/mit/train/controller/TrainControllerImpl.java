@@ -13,7 +13,7 @@ public class TrainControllerImpl implements TrainController {
 		thread = new Thread();
 		while(true){
 			followSpeed();
-			thread.sleep(1000);
+			thread.sleep(2000);
 		}
 	}
 
