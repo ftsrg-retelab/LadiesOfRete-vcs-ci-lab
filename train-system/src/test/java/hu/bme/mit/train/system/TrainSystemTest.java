@@ -50,11 +50,11 @@ public class TrainSystemTest {
 		Assert.assertEquals(0, controller.getReferenceSpeed());
 	}
 
-	@Test
+	/*@Test
 	public void LetsFailForever() {
 
 		Assert.assertEquals(0, 0);
-	}
+	}*/
 
 	
 }
